@@ -25,4 +25,7 @@
 ## 컴파일 및 실행 방법
 해당 프로그램은 소스코드를 공개하지 않습니다.
 
-## 작동 화면
+## 작동 화면 ( 클릭하면 빛번짐 사라집니다 )
+### 1to50 ( https://zzzscore.com/1to50 )
+![1to50](https://github.com/user-attachments/assets/ee0657a9-0fad-4cb5-828a-c4e998962f9d)
+### AimTest ( https://www.arealme.com/aim-test/en )
