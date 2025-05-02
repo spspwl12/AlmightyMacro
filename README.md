@@ -5,7 +5,7 @@
 기존 스크립트 메이커에 없었지만 있었으면 더욱 유용했을 기능들을 추가하여, 보다 편리하게 사용할 수 있도록 만들었습니다.
 
 이 프로그램에 사용된 Third-Party Program 은 다음과 같습니다.
-- opencv ( https://opencv.org ) => 정적 라이브러리, 불필요한 코드는 주석처리해서 EXE 파일 용량 최적화
+- OpenCV ( https://opencv.org ) => 정적 라이브러리, 불필요한 코드는 주석처리해서 EXE 파일 용량 최적화
 - Scintilla ( https://www.scintilla.org ) => char 형식으로 짜여진 코드를 wchar_t로 전부 변환, 불필요한 코드는 주석처리해서 EXE 파일 용량 최적화
 
 이 프로그램에 사용된 외부 코드는 다음과 같습니다.
