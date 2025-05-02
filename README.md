@@ -9,7 +9,6 @@
 - Scintilla ( https://www.scintilla.org ) => char 형식으로 짜여진 코드를 wchar_t로 전부 변환, 불필요한 코드는 주석처리해서 EXE 파일 용량 최적화
 
 이 프로그램에 사용된 외부 코드는 다음과 같습니다.
-- WELL512a ( https://simul.iro.umontreal.ca/rng/WELL512a.c )
 - Human-like cursor movement ( https://github.com/RandomGuy1520/FlorrHelper ) => 파이썬 코드를 LLM 을 이용하여 C++ 코드로 변환
 
 ## 주요 특징
