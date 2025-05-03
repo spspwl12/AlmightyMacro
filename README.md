@@ -28,4 +28,7 @@
 ## 작동 화면 ( 클릭하면 빛번짐 사라집니다 )
 ### 1to50 ( https://zzzscore.com/1to50 )
 ![1to50](https://github.com/user-attachments/assets/ee0657a9-0fad-4cb5-828a-c4e998962f9d)
+### ApmTest ( https://www.arealme.com/apm-actions-per-minute-test/en )
+![apmtest](https://github.com/user-attachments/assets/2bccd767-d590-4aa8-9464-2b62b0eb2ca0)
+
 ### AimTest ( https://www.arealme.com/aim-test/en )
