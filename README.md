@@ -50,4 +50,8 @@
 ![drawdot](https://github.com/user-attachments/assets/7a6297a6-e200-43f1-b4e5-ddd11f21f164)
 ### 시계 그리기
 ![analogclock](https://github.com/user-attachments/assets/43dc64c1-04b5-4741-a9b8-ab8039bf0026)
+### 따라 그리기
+![Animation7](https://github.com/user-attachments/assets/9eefdc09-178c-4fe7-a02c-4f2016e9eab9)
+
+
 
