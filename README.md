@@ -30,5 +30,24 @@
 ![1to50](https://github.com/user-attachments/assets/ee0657a9-0fad-4cb5-828a-c4e998962f9d)
 ### ApmTest ( https://www.arealme.com/apm-actions-per-minute-test/en )
 ![apmtest](https://github.com/user-attachments/assets/2bccd767-d590-4aa8-9464-2b62b0eb2ca0)
+### Checkboxrace ( https://checkboxrace.com )
+![checkboxrace](https://github.com/user-attachments/assets/c26070fd-5b87-4f1a-9cba-e9bf4100a600)
+### Draw A Perfect Circle ( https://www.arealme.com/draw-a-circle/en )
+![draw-a-circle](https://github.com/user-attachments/assets/aa1641c7-f64b-4dc6-a3f6-6f222e880cb0)
+### Draw a Perfect Circle ⭕️💯 ( https://neal.fun/perfect-circle )
+![perfect-circle](https://github.com/user-attachments/assets/8e0fd9e8-3c77-429e-984d-75c04bdeb29a)
+### Mouse Test ( https://www.arealme.com/mouse-test/en )
+![mouse-test](https://github.com/user-attachments/assets/2b4197d7-2e74-418a-aa3f-db6f870e745b)
+### 두더지 잡기 ( https://www.gamen.com/game10 )
+![mole](https://github.com/user-attachments/assets/8a3e2013-b129-4954-a6c1-3c2a80410d57)
+![mole (1)](https://github.com/user-attachments/assets/f6165d9d-3246-49e1-b248-8e33e976bd09)
+### Aim Test ( https://www.arealme.com/aim-test/en )
+![aimtest](https://github.com/user-attachments/assets/89dafe9f-f5d6-4310-9258-7ce835fdfc47)
+### 드래그 앤 드롭
+![draganddrop](https://github.com/user-attachments/assets/4fb88702-02c0-4f6f-8483-2b15d2fae787)
+### 점 찍기
+※ 화상키보드는 사용중인 키보드가 텐키리스라서 실행한 것입니다.
+![drawdot](https://github.com/user-attachments/assets/7a6297a6-e200-43f1-b4e5-ddd11f21f164)
+### 시계 그리기
+![analogclock](https://github.com/user-attachments/assets/43dc64c1-04b5-4741-a9b8-ab8039bf0026)
 
-### AimTest ( https://www.arealme.com/aim-test/en )
