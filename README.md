@@ -13,6 +13,7 @@
 
 ## 주요 특징
 - 이미지 서치 ( SIMD + 멀티스레딩을 이용해 보다 빠른 이미지 서치 가능 )
+- 템플릿 서치 ( OpenCV )
 - 픽셀 서치 ( SIMD 를 이용해 보다 빠른 픽셀 서치 가능 )
 - 멀티 이미지 서치 ( 여러개의 이미지를 동시에 서치 가능 )
 - 커서 서치 
@@ -27,7 +28,7 @@
 
 ## 작동 화면 ( 클릭하면 빛번짐 사라집니다 )
 ### 1to50 ( https://zzzscore.com/1to50 )
-![1to50](https://github.com/user-attachments/assets/ee0657a9-0fad-4cb5-828a-c4e998962f9d)
+![Animation1](https://github.com/user-attachments/assets/bf4f812e-3868-477d-acb1-cceb7cc0b038)
 ### ApmTest ( https://www.arealme.com/apm-actions-per-minute-test/en )
 ![apmtest](https://github.com/user-attachments/assets/2bccd767-d590-4aa8-9464-2b62b0eb2ca0)
 ### Checkboxrace ( https://checkboxrace.com )
