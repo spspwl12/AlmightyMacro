@@ -15,7 +15,7 @@
 ![Animation14](https://github.com/user-attachments/assets/e7776cb4-1460-4b74-a6a3-448ca400fde8)
 5. 일반 탭으로 이동해서 **실행중인 매크로를 추적 합니다.** 를 체크 하고 완료 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/4cc17273-4761-4045-8fab-00edaa4e00a5)
-6. 새로운 창의 ▼ 버튼을 누릅니다.<br>
+6. 추적 창의 ▼ 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/5d4790cc-3c2a-4e80-beb7-e5795b709be1)
 7. 매크로 리스트에 살구색 선택 영역이 현재 실행 중인 매크로를 나타냅니다.<br>
 ![image](https://github.com/user-attachments/assets/eeec046d-3a1e-48bb-8e24-eacdaefee00e)
@@ -40,6 +40,6 @@
 ![Animation16](https://github.com/user-attachments/assets/e38f6dba-b6ff-42f9-89bd-75f40947ac37)
 7. 완료 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/ee6ea106-f35a-4aa3-9c9c-71a859cbbb6a)
-8. ▶ 버튼을 클릭하면 중단점 설정이 된 라인에 매크로가 일시 정지됩니다.
+8. 추적 창의 ▶ 버튼을 클릭하면 중단점 설정이 된 라인에 매크로가 일시 정지됩니다.
 ![Animation17](https://github.com/user-attachments/assets/b5b24a77-08a6-4294-b4f6-a5b099639e33)
 
