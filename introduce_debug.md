@@ -24,3 +24,22 @@
 
 ### 중단점
 - **실행중인 매크로를 추적 합니다.** 가 체크된 상태에서 중단점을 설정할 때 원하는 줄부터 분석할 수 있습니다.<br>
+![Animation32](https://github.com/user-attachments/assets/aadf6345-7331-48c9-af52-80ac05c5bc03)
+1. 공간 탭으로 이동해서 **숫자 공간** 을 클릭해 공간이름을 ```test``` 으로 짓고 추가 버튼을 클릭합니다.<br>
+![image](https://github.com/user-attachments/assets/517deb73-04d1-49db-9463-fb0786d0a156)
+2. 연산 탭으로 이동해서 ```test```를 선택해 ```UNIX_TIME``` 을 입력 후 추가 버튼을 클릭합니다.<br>
+  - ```UNIX_TIME```은 1970년 1월 1일 00:00:00부터 현재시간까지 몇 초가 지났는지 나타내는 상수입니다.
+![Animation13](https://github.com/user-attachments/assets/14049a8b-73d8-441a-a1f0-1955d52024a6)
+3. 이동 탭으로 이동해서 ```0```을 입력 후 추가 버튼을 클릭합니다.<br>
+![image](https://github.com/user-attachments/assets/c99c18b2-39d7-4203-83ba-00a76d515ece)
+4. 방금 추가한 "이동 합니다"를 클릭 해 왼쪽의 검은색 선을 드래그 해서 1번 ```test```공간에 놓습니다.<br>
+![Animation14](https://github.com/user-attachments/assets/e7776cb4-1460-4b74-a6a3-448ca400fde8)
+5. 일반 탭으로 이동해서 **실행중인 매크로를 추적 합니다.** 를 체크합니다.<br>
+![image](https://github.com/user-attachments/assets/37db6941-fcb7-463a-829e-a3f7a773f587)
+6. 3번째 매크로를 오른쪽 클릭해 **중단점 설정**을 클릭합니다.<br>
+![Animation16](https://github.com/user-attachments/assets/e38f6dba-b6ff-42f9-89bd-75f40947ac37)
+7. 완료 버튼을 누릅니다.<br>
+![image](https://github.com/user-attachments/assets/ee6ea106-f35a-4aa3-9c9c-71a859cbbb6a)
+8. ▶ 버튼을 클릭하면 중단점 설정이 된 라인에 매크로가 일시 정지됩니다.
+![Animation17](https://github.com/user-attachments/assets/b5b24a77-08a6-4294-b4f6-a5b099639e33)
+
