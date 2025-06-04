@@ -9,7 +9,7 @@
 2. 연산 탭으로 이동해서 ```test```를 선택하고 ```test+1``` 을 입력합니다. 그리고 추가 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/50349922-86c2-485d-b586-1b822a65667e)
 3. 조건 탭으로 이동해서 ```test```를 선택하고 ```10```을 입력합니다. 그리고 추가 버튼을 누릅니다.<br>
-  - 조건은 ```test```가 ```10``` 이면 이기 때문에 ```test```가 ```10```이 아니라면 거짓으로 이동합니다.
+  -  ```test```가 ```10```이 아니라면 거짓으로 이동합니다.
 ![image](https://github.com/user-attachments/assets/744b0439-85d4-4294-b5fb-0aaf436d5d9d)
 4. 이동 탭으로 이동해서 ```0``` 입력 후 추가 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/fca223dc-e171-4441-bfe9-e93674a8bdc6)
