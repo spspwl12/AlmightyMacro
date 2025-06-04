@@ -27,7 +27,7 @@
 해당 프로그램은 소스코드를 공개하지 않습니다.
 
 ## 설명서
-[마우스](introduce_mouse.md) | [키보드](introduce_keyboard.md) | [이미지](introduce_image.md)
+[마우스](introduce_mouse.md) | [키보드](introduce_keyboard.md) | [이미지](introduce_image.md) | [디버깅](introduce_debug.md)
 
 ## 작동 화면 ( 클릭하면 빛번짐 사라집니다 )
 ### 1to50 ( https://zzzscore.com/1to50 )
