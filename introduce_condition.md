@@ -14,6 +14,7 @@
 4. 이동 탭으로 이동해서 ```0``` 입력 후 추가 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/fca223dc-e171-4441-bfe9-e93674a8bdc6)
 5. 3번 라인의 "조건문을 실행합니다."를 클릭해 왼쪽의 빨간색 선을 드래그 해서 2번 라인 ```test+1```에 놓습니다.<br>
+  - ```test```의 값이 ```10```일 때까지 계속 ```test+1```을 실행합니다.
 ![Animation22](https://github.com/user-attachments/assets/0b2cfc5f-22bf-4d02-b861-ae9c151d6ac8)
 6. 일반 탭으로 이동해서 **실행중인 매크로를 추적 합니다.** 를 체크하고 완료 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/68c18bf4-5b6d-4cda-948c-60d0444ee9c5)
