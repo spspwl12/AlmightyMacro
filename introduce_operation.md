@@ -38,9 +38,3 @@
 ![image](https://github.com/user-attachments/assets/072ce11e-779e-4b23-8dfa-fa288e3501a3)
 7. 추적 창에서 ▼ 버튼을 클릭해 min 함수 반환 값이 ```10```임을 확인하고 max 함수 반환 값이 ```20```임을 확인합니다. <br>
 ![Animation21](https://github.com/user-attachments/assets/f353ce4d-5f91-40b4-823b-a28f8f4df13b)
-
-
-
-
-
-
