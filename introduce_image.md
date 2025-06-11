@@ -117,7 +117,7 @@
 ![image](https://github.com/user-attachments/assets/82e97ca1-39d8-46d9-afed-a9c0959722dd)
 10. 1번의 "이미지 검색을 실행합니다."를 클릭해 왼쪽의 분홍색 선을 드래그해서 2번의 ```xy``` 연속공간에 놓습니다.<br>
 ![Animation10](https://github.com/user-attachments/assets/4fc4a639-bbae-44b8-aefd-83ebf3c99e7e)
-11. 7번의 "조건문을 실행합니다."를 클릭해 왼쪽의 빨간색 선을 드래그 해서 4번 ```i+1```에 놓습니다.
+11. 7번의 "조건문을 실행합니다."를 클릭해 왼쪽의 빨간색 선을 드래그 해서 4번 ```i+1```에 놓습니다.<br>
 ![Animation11](https://github.com/user-attachments/assets/2b872f75-9396-4101-acbe-d64ceffeb84e)
 12. 일반 탭으로 이동해서 완료 버튼을 눌러 실행합니다.<br>
 ![Animation12](https://github.com/user-attachments/assets/23ea3c54-80b0-4842-8c14-e432e6e14731)
