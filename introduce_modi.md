@@ -15,7 +15,7 @@
 ![Animation4](https://github.com/user-attachments/assets/16e18dbf-6c15-4216-b303-1ceea14824b2)
 4. 수정하게 되면 수정한 영역에 녹색 테두리가 생깁니다. 그 상태에서 **수정**을 클릭합니다.<br>
 ![image](https://github.com/user-attachments/assets/17df82ec-6f36-4658-b3cb-6bc2384c0751)
-5. 일괄적으로 수정이 완료됐습니다.<br>
+5. 일괄적으로 수정이 완료된 모습입니다.<br>
 ![{008D42B9-4154-44B6-AC92-C94E5F233836}](https://github.com/user-attachments/assets/b653bdff-87f7-437e-bb67-6d894c3ebfbd)
 6. 서로 다른 타입의 매크로를 일괄 수정할 때는 수정 기준이 되는 매크로 타입만 수정이 됩니다.<br>
 ![Animation5](https://github.com/user-attachments/assets/fa5d426c-1e5b-4cf7-a01c-0c128fc3e79d)
