@@ -34,7 +34,7 @@
 ![Animation13](https://github.com/user-attachments/assets/11b6b8ea-8b6f-4aa8-ba92-8ac50445cf6d)
 6. 일반 탭으로 이동해서 **실행중인 매크로를 추적 합니다.** 를 체크하고 완료 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/97a743a5-e8b0-4a23-ba34-1b7c678b3dc5)
-7. 추적 창에서 ▼ 버튼을 1번 클릭하고 이후에는 설정된 실행키를 눌러서 test 값에 커서 위치가 담겨있는지 확인합니다.<br>
+7. 추적 창에서 ▼ 버튼을 1번 클릭하고 이후에는 설정된 실행키를 눌러서 ```test``` 값에 커서 위치가 담겨있는지 확인합니다.<br>
 ![Animation14](https://github.com/user-attachments/assets/48979000-51f2-453a-b1c2-c9168cbf6b4e)
 
 ### 함수의 사용
