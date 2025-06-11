@@ -74,12 +74,3 @@
 ![image](https://github.com/user-attachments/assets/b562fd90-9e3f-4d3f-84d8-d764e14bf6ad)
 6. "준비 완료" 가 뜨면 실행키를 입력해 매크로를 실행합니다.<br>
 ![image](https://github.com/user-attachments/assets/355c8bf0-c602-4762-9e66-2c9608f7df68)
-
-
-
-
-
-
-
-
-
