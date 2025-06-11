@@ -36,7 +36,7 @@
   - 이미지 검색에 실패할 때 성공할 때까지 이미지 검색을 할 것입니다.
 ![Animation26](https://github.com/user-attachments/assets/5b9db4ce-1983-4fb0-b567-717ac5967672)
 6. 2번 라인의 "조건문을 실행합니다."를 클릭해 왼쪽의 파란색 선을 드래그 해서 3번 라인 마우스 이동에 놓습니다.<br>
-  - 이미지 검색에 성공할 때 3번 라인으로 이미지 좌푯값이 들어가 이미지가 있는 쪽으로 커서가 이동될 것입니다.
+  - 이미지 검색에 성공할 때 3번 라인으로 이미지 좌푯값이 들어가 이미지가 있는 쪽으로 커서가 이동되고 X,Y 좌표가 ```29/2``` 만큼 추가로 이동될 것입니다.(가운데)
 ![Animation27](https://github.com/user-attachments/assets/b46d3465-62fb-4b2e-a4b1-bc004aaee198)
 7. 일반 탭으로 이동해서 완료 버튼을 누르고 매크로를 실행합니다.<br>
 ![image](https://github.com/user-attachments/assets/becb478f-4b66-4385-ac75-3184b293d974)
