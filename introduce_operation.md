@@ -27,10 +27,10 @@
 3. 연산 탭으로 이동해서 ```b```를 선택하고 ```20```를 입력합니다. 그리고 추가 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/0e453d47-d3fb-4eff-86d8-e97d7fd1cf65)
 3. 연산 탭으로 이동해서 ```c```를 선택하고 ```min(a,b)```를 입력합니다. 그리고 추가 버튼을 누릅니다.<br>
-  - min 함수는 두 수를 비교해서 가장 작은 값을 반환하는 함수입니다.
+  - ```min``` 함수는 두 수를 비교해서 가장 작은 값을 반환하는 함수입니다.
 ![image](https://github.com/user-attachments/assets/9e3a48b7-cc60-494b-8920-ed9dbf931de7)
 4. 연산 탭으로 이동해서 ```c```를 선택하고 ```max(a,b)```를 입력합니다. 그리고 추가 버튼을 누릅니다.<br>
-  - max 함수는 두 수를 비교해서 가장 큰 값을 반환하는 함수입니다.
+  - ```max``` 함수는 두 수를 비교해서 가장 큰 값을 반환하는 함수입니다.
 ![image](https://github.com/user-attachments/assets/c4092dcd-21ad-4dc3-9918-801b891c7940)
 5. 이동 탭으로 이동해서 ```0``` 입력 후 추가 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/1c768571-cb0b-4b1c-8e20-4c7fa35a30b0)
