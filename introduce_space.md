@@ -11,6 +11,7 @@
 3. 이동 탭으로 이동해서 ```0``` 입력 후 추가 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/4724e6ac-981a-4f76-8361-932fb6d82c3d)
 4. 1번 라인의 "이미지 검색을 실행합니다."를 클릭해 왼쪽의 분홍색 선을 드래그 해서 2번 라인 ```xy```에 놓습니다.<br>
+   - 이미지 검색 결과가 ```xy```에 저장될 것입니다.
 ![Animation28](https://github.com/user-attachments/assets/611bc37a-122e-4006-9003-960a3e51aa5d)
 5. 일반 탭으로 이동해서 **실행중인 매크로를 추적 합니다.** 를 체크하고 완료 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/be8edf73-83d6-4b8d-a5c4-72dfb6e6ce70)
