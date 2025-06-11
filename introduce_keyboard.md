@@ -57,6 +57,7 @@
 3. 빨간 네모 안을 더블클릭 해서 사칙연산 창을 편집합니다.<br>
 ![image](https://github.com/user-attachments/assets/496a4d65-59f7-4e73-b959-b378c350155d)
 4. 빨간 네모 안에 ```rnd(1000)``` 를 입력하고 확인 버튼을 누릅니다.<br>
+  - ```rnd(1000)``` : 0 부터 999까지 랜덤한 숫자를 얻는 함수 입니다.
 ![image](https://github.com/user-attachments/assets/3648a100-63d3-4d7c-8732-f707e741e526)
 5. 추가 버튼을 누릅니다.<br>
 ![image](https://github.com/user-attachments/assets/7e5d34a1-a4e2-4385-a29f-05eb02bb7326)
