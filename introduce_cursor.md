@@ -4,7 +4,7 @@
 ### 커서 검색
 - 현재 표시되는 커서를 검색해 다양한 로직을 구현할 수 있습니다. <br>
 ![Animation24](https://github.com/user-attachments/assets/80e51af6-b545-4ae4-9e50-1eb97a3b35db)
-1. 커서 탭으로 이동해서 **해당 키로 캡처**란에 단축키를 설정 후 **시작** 버튼을 눌러서 특정 상황에 변하는 커서를 캡처합니다.
+1. 커서 탭으로 이동해서 **해당 키로 캡처**란에 단축키를 설정 후 **시작** 버튼을 눌러서 특정 상황에 변하는 커서를 캡처합니다.<br>
 ![Animation30](https://github.com/user-attachments/assets/de86ffc3-8fcc-4e6d-859d-4e94d43264e4)
 2. 추가 버튼을 누릅니다.
 ![image](https://github.com/user-attachments/assets/afd4378f-ecbc-4d5a-89ce-428f1f4c1196)
